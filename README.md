@@ -93,7 +93,7 @@ professor tais funcionalidades.
   * Exibir contatos à esquerda, numa tag nav;
   * Não deve ser possível convidar a si mesmo.
  
-12. Página do superusurio
+12. Página do superusuário
   * Ao entrar, devem ser possível ver todos os perfis conforme feito em sala;
   * Seus contatos e convites conforme já fizemos em sala;
   * Deve haver um link para a timeline do próprio super usuário.
